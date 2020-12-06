@@ -1,2 +1,1 @@
-#####aaa
-######aaaaaaaa
+aaa
